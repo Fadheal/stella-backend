@@ -1,5 +1,7 @@
 # Stella Backend Setup
 
+## Import sql file on db/database.sql to your mysql
+
 ## Requirements
 - Node.js 18 or newer  
 - npm  
